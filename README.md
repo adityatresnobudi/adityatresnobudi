@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityatresnobudi
-- 👀 I’m interested in data science, analytics, and machine learning especially for healthcare, sports, and gaming industry
-- 🌱 I’m currently learning applied Machine Learning
-- 💞️ I’m looking to collaborate on more data related project
+- 👀 I’m interested in pursuing career as data scienctist, and software engineering especially for healthcare, sports, and gaming industry
+- 💞️ I’m looking to collaborate on more project
 - 📫 You can reach me on LinkedIn : linkedin.com/in/adityatresnobudi/
 
 <!---

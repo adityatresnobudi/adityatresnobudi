@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adityatresnobudi
-- 👀 I’m interested in pursuing career as data scienctist, and software engineering especially for healthcare, sports, and gaming industry
-- 💞️ I’m looking to collaborate on more project
+- 👋 Hi, I’m Adit
+- 👀 I’m interested in pursuing career as data scienctist, or software engineering (looking to collaborate on more project!)
+- 💞️ I’m also interested in healthcare, sports, and gaming industry
 - 📫 You can reach me on LinkedIn : linkedin.com/in/adityatresnobudi/
 
 <!---

@@ -3,7 +3,7 @@
 - 💞️ I’m also interested in healthcare, sports, and gaming industry
 - 📫 You can reach me on LinkedIn : linkedin.com/in/adityatresnobudi/
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/aditbuddy?ext=heatmap)](https://leetcode.com/aditbuddy)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aditbuddy)](https://leetcode.com/aditbuddy)
 
 <!---
 adityatresnobudi/adityatresnobudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

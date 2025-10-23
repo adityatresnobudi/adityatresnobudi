@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adit
-- 👀 I’m interested in pursuing career as a backend engineer with a keen interest on bioinformatics (looking to collaborate on more project!)
+- 👀 I’m interested in pursuing career as a backend engineer with a keen interest on math and bioinformatics (looking to collaborate on more project!)
 - 💞️ I’m also interested in healthcare, sports, and gaming industry
 - 📫 You can reach me on LinkedIn : linkedin.com/in/adityatresnobudi/
 
